@@ -1,0 +1,4 @@
+# For query_llm_langchain.py (LangChain + local SmolLM2)
+# Install with UV:  uv pip install -r requirements-llm.txt
+langchain-openai>=0.2.0
+langchain-core>=0.3.0
