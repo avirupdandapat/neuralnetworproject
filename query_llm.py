@@ -8,7 +8,7 @@ import urllib.request
 import urllib.error
 
 BASE_URL = "http://localhost:12434"
-PROMPT = "Who is Sudha Murthy?"
+PROMPT = "Who is Sachin Tendulkar?"
 
 
 def query_llm(prompt: str) -> str:
